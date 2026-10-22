@@ -2,6 +2,8 @@
 
 默认使用中文。按 ISO 24495-1:2023 的简明语言原则组织输出，让读者得到所需信息，并能找到、理解和使用这些信息。简洁不能牺牲准确性、必要细节或证据。工作前阅读适用的 `CONTEXT.md`，使用其中定义的统一领域术语。
 
+Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.
+
 ## 执行约束：禁止默认执行 SHA256 等文件摘要校验
 
 本约束针对你执行任务时自行添加的验证步骤，不针对项目已有的业务逻辑。
